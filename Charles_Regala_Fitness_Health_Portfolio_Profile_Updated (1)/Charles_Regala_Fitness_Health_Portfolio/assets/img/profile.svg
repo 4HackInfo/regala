@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 520" role="img" aria-labelledby="title desc">
+<title id="title">Charles Regala profile illustration placeholder</title>
+<desc id="desc">Stylized profile avatar illustration with a dark background and lime accents.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#20291c"/><stop offset="1" stop-color="#10140f"/></linearGradient>
+  <linearGradient id="shirt" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#394631"/><stop offset="1" stop-color="#1c2419"/></linearGradient>
+  <radialGradient id="glow"><stop offset="0" stop-color="#c9f36b" stop-opacity=".22"/><stop offset="1" stop-color="#c9f36b" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="480" height="520" fill="url(#bg)"/>
+<circle cx="240" cy="220" r="225" fill="url(#glow)"/>
+<g fill="none" stroke="#c9f36b" stroke-opacity=".32">
+  <circle cx="240" cy="235" r="176"/><circle cx="240" cy="235" r="201" stroke-dasharray="4 12"/>
+  <path d="M30 420H450M42 435H438" stroke-opacity=".16"/>
+</g>
+<path d="M76 520c12-106 74-159 164-159s152 53 164 159" fill="url(#shirt)" stroke="#c9f36b" stroke-opacity=".55" stroke-width="2"/>
+<path d="M184 333h112v72c-25 32-87 32-112 0z" fill="#b97f58"/>
+<ellipse cx="240" cy="236" rx="105" ry="126" fill="#d49b70"/>
+<path d="M135 220c-8-95 37-147 109-147 76 0 118 55 103 151l-16-43-16-52c-44 17-98 18-149 7l-15 84z" fill="#151714"/>
+<path d="M146 184c12-65 50-97 99-97 57 0 93 33 103 94-39-20-67-44-87-68-24 34-65 58-115 71z" fill="#20231f"/>
+<path d="M172 228q26-17 51 0M257 228q26-17 51 0" fill="none" stroke="#39291f" stroke-width="7" stroke-linecap="round"/>
+<ellipse cx="198" cy="246" rx="7" ry="9" fill="#211b17"/><ellipse cx="282" cy="246" rx="7" ry="9" fill="#211b17"/>
+<path d="M239 246l-10 39 19 2" fill="none" stroke="#ad7654" stroke-width="5" stroke-linecap="round"/>
+<path d="M207 311q33 20 66 0" fill="none" stroke="#754634" stroke-width="5" stroke-linecap="round"/>
+<path d="M180 365l60 61 60-61 43 30 40 125H97l40-125z" fill="#f0f0e9"/>
+<path d="M180 365l60 61-35 94h-60l-8-125zM300 365l-60 61 35 94h60l8-125z" fill="#252d21"/>
+<path d="M240 426l-18 28 18 66 18-66z" fill="#c9f36b"/>
+<rect x="28" y="28" width="424" height="464" rx="3" fill="none" stroke="#c9f36b" stroke-opacity=".3"/>
+<text x="30" y="50" fill="#c9f36b" font-family="monospace" font-size="10" letter-spacing="2">PROFILE / CR-01</text>
+<text x="30" y="476" fill="#f0f0e9" font-family="monospace" font-size="11" letter-spacing="2">FITNESS × WELLNESS TECH</text>
+</svg>
